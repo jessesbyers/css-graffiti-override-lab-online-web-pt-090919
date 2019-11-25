@@ -1,6 +1,6 @@
-#wall .tag-1 {display: none;}
+/*#wall .tag-1 {display: none;}
 
-#wall .parent {display: none;}
+#wall .parent {display: none;}*/
 
 div[id^="tag"] {display: none;}
 /*<div id="tag-2"></div>
