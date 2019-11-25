@@ -2,7 +2,7 @@
 
 #wall .parent {display: none;}
 
-#wall [id^="tag"] {display: none;}
+#wall:nth-child(2){display: none;}
 
 /*div[id="tag-2"] {display: none;}*/
 /*<div id="tag-2"></div>
