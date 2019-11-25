@@ -2,7 +2,8 @@
 
 #wall .parent {display: none;}
 
-div#tag-2 {display: none;}
+#wall > #tag {display: none;}
+
 
 
 
