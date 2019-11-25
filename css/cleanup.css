@@ -1,6 +1,8 @@
 /* write your override styles here */
 
 div#tag-2 {display: none;}
+div#tag-3.slick {display: none;}
+
 
 #wall .tag-1 {display: none;}
 
