@@ -2,6 +2,6 @@
 
 #wall .parent {display: none;}
 
-div[id^="tag"]
+div[id^="tag"] {display: none;}
 /*<div id="tag-2"></div>
 <div id="tag-3" class="slick wicked"></div>*/
