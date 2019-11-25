@@ -5,8 +5,9 @@
 
 #wall .parent {display: none;}
 
+tag-2[type="id"] {display: none;}
 
-div #tag-2 {display: none;}
+/*div #tag-2 {display: none;}*/
 
 
 
