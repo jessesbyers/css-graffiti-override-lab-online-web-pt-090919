@@ -1,7 +1,11 @@
 #wall .tag-1 {display: none;}
 
-#wall .parent {display: none;}
 
 #wall .tag-1 + #tag-2 {display: none;}
 
 div#wall #tag-3.slick.wicked {display: none;}
+
+#wall .parent + #tag-4 {display: none;}
+
+
+/*#wall .parent {display: none;}*/
